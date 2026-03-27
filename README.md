@@ -3,7 +3,7 @@
 **Version:** 2.0
 **Date:** 2026-03-13
 **Status:** Draft
-
+**[Privacy Policy](https://alexpcosta.github.io/F-F-Brain-Duel/privacy-policy)** 
 ---
 
 ## 1. Overview
